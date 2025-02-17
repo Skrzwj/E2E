@@ -11,3 +11,14 @@ If you have any questions, please feel free to contact: Weijie Zhu [zwj@seu.edu.
 <div align="center">
     <img src="pics/Intro/overview.png" width = 100% >
 </div>
+
+## 2. Experiment Result of Natural Scenes
+### The experimental scenes, illustrated in below figure, include eight randomly selected natural environments such as corridors, walls, buildings, and parking area. 
+<div align="center">
+    <img src="pics/Intro/scene.png" width = 100% >
+</div>
+
+### The calibration result of overlapping map between the laser refectivity and original image.
+<div align="center">
+    <img src="pics/Intro/result.png" width = 100% >
+</div>
