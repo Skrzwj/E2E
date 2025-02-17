@@ -26,10 +26,10 @@ If you have any questions, please feel free to contact: Weijie Zhu [zwj@seu.edu.
 | :------------: | :------------: | :------------: |
 | Livox Mid-70 LiDAR  | <img src="./pics/livox_avia.png" width=20%  /> | [Livox Mid-70](https://www.livoxtech.com/cn/mid-70) |
 | RealSense D435i | <img src="./pics/cmos.jpg" width=20%  /> | [D435i](https://www.intelrealsense.com/depth-camera-d435i/) |
-| Orbbec Gemini2 | <img src="./pics/len.jpg" width=20%  /> | [Gemini2](https://m.tb.cn/h.gXmtLRX2UYzGDzH?tk=hIS7WGPOY0y) |
-| HK MV-CU050-90UC | <img src="./pics/stm32.jpg" width=25%  /> | [MV-CU050-90UC](https://m.tb.cn/h.ggkS9Kp?tk=orRfWz6M784) |
-| HK MV-CE060-10UC | <img src="./pics/screen.jpg" width=25%  /> | [MV-CE060-10UC](https://m.tb.cn/h.ggkhQ7e?tk=LntBWz6mHDL) |
-| Dj OSMO Action4| <img src="./pics/battery.jpg" width=30%  /> | [Action4](https://m.tb.cn/h.g5vJI7a?tk=ofKdWz6OYQm) |
+| Orbbec Gemini2 | <img src="./pics/len.jpg" width=20%  /> | [Gemini2](https://developer.orbbec.com.cn/gemini2.html) |
+| HK MV-CU050-90UC | <img src="./pics/stm32.jpg" width=25%  /> | [MV-CU050-90UC](https://www.hikrobotics.com/cn/machinevision/productdetail?id=9745) |
+| HK MV-CE060-10UC | <img src="./pics/screen.jpg" width=25%  /> | [MV-CE060-10UC](https://www.hikrobotics.com/cn/machinevision/visionproduct?typeId=27&id=42&pageNumber=1&pageSize=20&showEol=false&conditionSelected=) |
+| Dj OSMO Action4| <img src="./pics/battery.jpg" width=30%  /> | [Action4](https://www.dji.com/cn/osmo-action-4) |
 
 
 ## 3. Experiment Result of Natural Scenes
