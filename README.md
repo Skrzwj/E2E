@@ -21,15 +21,47 @@ If you have any questions, please feel free to contact: Weijie Zhu [zwj@seu.edu.
     <img src="pics/Hardware/platform_white.png" width = 30% >
 </div>
 
-### 2.2 Main material lists (only for reference)
-| Item  | Pics  | Purchasing list  |
-| :------------: | :------------: | :------------: |
-| Livox Mid-70 LiDAR  | <img src="./pics/livox_avia.png" width=20%  /> | [Livox Mid-70](https://www.livoxtech.com/cn/mid-70) |
-| RealSense D435i | <img src="./pics/cmos.jpg" width=20%  /> | [D435i](https://www.intelrealsense.com/depth-camera-d435i/) |
-| Orbbec Gemini2 | <img src="./pics/len.jpg" width=20%  /> | [Gemini2](https://developer.orbbec.com.cn/gemini2.html) |
-| HK MV-CU050-90UC | <img src="./pics/stm32.jpg" width=25%  /> | [MV-CU050-90UC](https://www.hikrobotics.com/cn/machinevision/productdetail?id=9745) |
-| HK MV-CE060-10UC | <img src="./pics/screen.jpg" width=25%  /> | [MV-CE060-10UC](https://www.hikrobotics.com/cn/machinevision/visionproduct?typeId=27&id=42&pageNumber=1&pageSize=20&showEol=false&conditionSelected=) |
-| Dj OSMO Action4| <img src="./pics/battery.jpg" width=30%  /> | [Action4](https://www.dji.com/cn/osmo-action-4) |
+### 2.2 Hardware Lists
+<div align="center">
+<table>
+  <tr>
+    <th align="center">Item</th>
+    <th align="center" style="width: 15%;">Pics</th>
+    <th align="center">Purchasing list</th>
+  </tr>
+  <tr>
+    <td align="center">Livox Mid-70 LiDAR</td>
+    <td align="center"><img src="./pics/Hardware/mid-70.png" width="80"/></td>
+    <td align="center"><a href="https://www.livoxtech.com/cn/mid-70">Livox Mid-70</a></td>
+  </tr>
+  <tr>
+    <td align="center">RealSense D435i</td>
+    <td align="center"><img src="./pics/Hardware/d435i.png" width="80"/></td>
+    <td align="center"><a href="https://www.intelrealsense.com/depth-camera-d435i/">D435i</a></td>
+  </tr>
+  <tr>
+    <td align="center">Orbbec Gemini2</td>
+    <td align="center"><img src="./pics/Hardware/gemini2.png" width="80"/></td>
+    <td align="center"><a href="https://developer.orbbec.com.cn/gemini2.html">Gemini2</a></td>
+  </tr>
+  <tr>
+    <td align="center">HK MV-CU050-90UC</td>
+    <td align="center"><img src="./pics/Hardware/hk1.png" width="60"/></td>
+    <td align="center"><a href="https://www.hikrobotics.com/cn/machinevision/productdetail?id=9745">MV-CU050-90UC</a></td>
+  </tr>
+  <tr>
+    <td align="center">HK MV-CE060-10UC</td>
+    <td align="center"><img src="./pics/Hardware/hk2.png" width="60"/></td>
+    <td align="center"><a href="https://www.hikrobotics.com/cn/machinevision/visionproduct?typeId=27&id=42&pageNumber=1&pageSize=20&showEol=false&conditionSelected=">MV-CE060-10UC</a></td>
+  </tr>
+  <tr>
+    <td align="center">DJI OSMO Action4</td>
+    <td align="center"><img src="./pics/Hardware/action4.png" width="80"/></td>
+    <td align="center"><a href="https://www.dji.com/cn/osmo-action-4">Action4</a></td>
+  </tr>
+</table>
+</div>
+
 
 
 ## 3. Experiment Result of Natural Scenes
