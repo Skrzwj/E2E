@@ -2,7 +2,7 @@
 ### E2E: Targetless Automatic Edge-2-Edge extrinsic calibration algorithm.
 
 ### 📢 Source Code Public
-Since our work is still in the review process of IEEE TIM, and this work is currently linked to project, it is temporarily confidential.
+Since our work is still in the review process of 2025 IEEE TIM, and this work is currently linked to project, it is temporarily confidential.
 After the paper is accepted and the project is completed, the code will be open source.
 
 ### 📬 Contact
