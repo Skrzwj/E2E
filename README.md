@@ -15,12 +15,12 @@ If you have any questions, please feel free to contact: Weijie Zhu [zwj@seu.edu.
     <img src="pics/Intro/overview.png" width = 100% >
 </div>
 
-## 2. Hardware Platform
-### To facilitate the experiment, we designed a handheld scanning device.
-
+## 2. Hardware Platform and Dataset
+### 2.1To facilitate the experiment, we designed a handheld scanning device.
 <div align="center">
     <img src="pics/Hardware/platform_white.png" width = 30% >
 </div>
+### 2.2 The exmaple dataset can be download from [**BaiduNetDisk(百度网盘)**](https://pan.baidu.com/s/1oz3unqsmDnFvBExY5fiBJQ?pwd=i964).
 
 ## 3. Experiment Result of Natural Scenes
 ### The experimental scenes, illustrated in below figure, include eight randomly selected natural environments such as corridors, walls, buildings, and parking area. 
