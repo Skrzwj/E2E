@@ -79,3 +79,8 @@ If you have any questions, please feel free to contact: Weijie Zhu [zwj@seu.edu.
 <div align="center">
     <img src="pics/Intro/result.png" width = 100% >
 </div>
+
+### 3.4 Colored point cloud 
+<div align="center">
+    <img src="pics/ACLC/color.png" width = 100% >
+</div>
