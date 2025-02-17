@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/45fc4af4-cd0f-42e7-9e78-bbecd83fc95b)# E2E 
+# E2E 
 ### E2E: Targetless Automatic Edge-2-Edge extrinsic calibration algorithm.
 
 
